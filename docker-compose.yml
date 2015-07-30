@@ -1,0 +1,15 @@
+app:
+  build: .
+  ports:
+    - "3000:3000"
+  links:
+    - redis
+    - database
+  volumes:
+    - ".:/usr/src/app"
+
+redis:
+  image: redis
+
+database:
+  image: postgres

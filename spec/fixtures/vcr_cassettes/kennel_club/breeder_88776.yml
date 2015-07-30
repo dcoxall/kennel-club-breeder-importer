@@ -1,0 +1,318 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.thekennelclub.org.uk/services/public/acbr/display.aspx?id=88776
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip,deflate,identity
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Mozilla/5.0 (Macintosh; U; Intel Mac OS X 10.6; en-US; rv:1.9.2) Gecko/20100115
+        Firefox/3.6
+      Accept-Charset:
+      - ISO-8859-1,utf-8;q=0.7,*;q=0.7
+      Accept-Language:
+      - en-us,en;q=0.5
+      Host:
+      - www.thekennelclub.org.uk
+      Connection:
+      - keep-alive
+      Keep-Alive:
+      - 300
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - private
+      Content-Type:
+      - text/html; charset=utf-8
+      Content-Encoding:
+      - gzip
+      Vary:
+      - Accept-Encoding
+      Server:
+      - Microsoft-IIS/7.5
+      Set-Cookie:
+      - ASP.NET_SessionId=3yr5csftlgooykr5rbmwj1fj; path=/; HttpOnly
+      - KC_OnlineServices=01000000D08C9DDF0115D1118C7A00C04FC297EB010000004EFBB7736EDB9A4A8A304BF3221EA9190400000002000000000003660000C000000010000000E09695BD02B98C8DD9DAD0E3E8F81B5C0000000004800000A00000001000000077A9D4E19DBF27227C6FD64B781285C73800000026255CDAAA320A08658AD660DCF38831B3C6CF498BFA5CA48EAA955546F9D79DBA62CF163F66A83817E6C214FB83A31947DFBABF0BFE9515140000000DDE01C4EEA8B7D15DEF284801D4FA6B0CCC5957;
+        expires=Tue, 28-Jun-2016 20:38:04 GMT; path=/
+      Charset:
+      - utf-8
+      - utf-8
+      X-Aspnet-Version:
+      - 4.0.30319
+      X-Powered-By:
+      - ASP.NET
+      Date:
+      - Sun, 28 Jun 2015 20:38:03 GMT
+      Content-Length:
+      - '6489'
+    body:
+      encoding: ASCII-8BIT
+      string: !binary |-
+        H4sIAAAAAAAEAO29B2AcSZYlJi9tynt/SvVK1+B0oQiAYBMk2JBAEOzBiM3m
+        kuwdaUcjKasqgcplVmVdZhZAzO2dvPfee++999577733ujudTif33/8/XGZk
+        AWz2zkrayZ4hgKrIHz9+fB8/In7j5DdOHv+uT788efP7vDxN5+2iTF9+9eT5
+        2Un60fbdu9+9d3L37tM3T9Pf+9tvvnie7o530jd1tmyKtqiWWXn37umLj9KP
+        5m27enT37tXV1fjq3riqL+6+eXX3HWDt4mX9dbv13hzP2tlHR9w5vkzfLcpl
+        81kE0u7Dhw8FAJo/nufZLC1mn300bcudnd//2/Tn7kdHj9uiLXP6/sfezPP0
+        98qXy7xMT8r1JN1Oj5tmXeez9Emd57O8Jhh3TeuUnsfNtC5Wbdper/LPPmrz
+        d+3dn84uM/n0o7Spp599dPdu9tPZu/FFVV2UebYqmvG0WvBnd8ti0tz96V+0
+        zuvru7vjXSKQ/jVeFMvxTzeE212B9T79NXl9WUzz5u5r/tj0MJ6sxs20Wrdd
+        wI/LYvk2ndf5+Wcfjcd36X/Tprk7yZp8TL98lNZ5+dlHTXtd5s08z6kbr3du
+        cJeA3Aa/o8usTpurop3O31T336WfpW29zg89VAjEDTBkjJjpBlPdjJt5Vuft
+        XMk6WbdttdQfTXekBP0G8EdN+7y4mLfjagVWa7Z+cbpaT8qCRl4/Sj9a19u7
+        k73Z7r1PH27vP7i//Sn+mT7Isu1senD//PxePptk+UfpL7lzmHr9as+/6/Z2
+        +iyb5pOqept+ucqX6ed1tpqn29vUhhqkjxd5m6WrulrldXv92UfVxaNikV0Q
+        wGm1bPNlKyOngZs5Hrfz/C1z7JQYFjw/Xr+9yy/dLauLiv/5/d9Of/+9+zvj
+        1fJCJou6UmyKd+l5Vadnp+kB/yJcmjZ5Vk97iKHv7fwXrYvLzz76vbe/Ot4+
+        qRarrC0mpY/h2elnB51ujmckQcXyIv1uPllkTZvX6ZuqKrvwl9mCpmTRXGZl
+        McvafLyz68G9/+zZg5MHn+4++XTn+Nn9B/c/fXB8enzy6f1nT/d3Tp+cnqLP
+        m1jZm3T+u8faIQgMmIgNhRKlM8G4e14T1reH7g2UFYk3wBu1TxfAqy+ffPnm
+        tQehWM7ydyOayLKsrrqtP//yy8+fn9Ib3gtnL56e/t6j9NmXz59/+d3uC9Nq
+        dV1DGLwXOjjyK3ehVmkiH0+q2TX9pPm8QcpEiFU+mrvCdNsZafbrtph+DbGN
+        AxQufn9o2gjP7yYqc+vOoXzmwdEPSGoWKVFtXpFdWVUNIZNNoTs++2hWNKsy
+        ux5nzerd70Fm5+DgwYNPP0rpt4/oo2XePqN30dvjWXGJH8VytTZIzYvZLF9+
+        ZOaCDZYo9C+y5e7v/23++lmRlzOBuLkFidSawGC+Nvbz+//+pz95+uLNm+NX
+        n58SowBw56P3hERvffUF/QxguQ9vD+0nz06/+/rN8RuSc4HkfaBQ7l6dvnx6
+        9dV3Xvzg9/nBF28udr/46Yudp3s/8d3jxe/z8qee/D4nxxdf4OdPHF9Qu3e/
+        z8m3L9ovf5/f+6dWP7X3bOenfvInryfHX11k3361M31aXT6/N7s3u76/k33+
+        k/VPfff++qe+++6nJ9/+yeL54uH1T13f382uH779qeOzk6dXB989nh8cP3m1
+        W82+/erqy+Lg8qc+f7j8ffbm8+mi3Mm/+51msjddT+59Z/l8+ZP1871Xb4EH
+        9391/OyL7853Zt8+/vT59UPqcbqefT4vs72fXE8WP9n8Pnvvdn+f4v7ldEGf
+        f7e5nC1+cmd6vXv9U7/3i/L3+b2/89OE2/VU8Di1eLxeWTxoBPeeL19VP/Xd
+        tpws7peTz180s++eebg8XE8+L9cEr5rcewI4zxyc8vZw7r0op8ufWv0+ez/5
+        Axnf1I7v+R7G9+QHFs5i936294V7d+dV+VOLZ7uTb//E+vf5vV9c5U8f/vTk
+        uz/xcLr4yR/Mvrtb0nyd/NTFwctnF2f5yWnZ/j7fnZU/+Xt/p3nyhgTutvhd
+        P1xNvvts+VOv8XPaTn7vsv59rneX1Mf954vV1U8xzhV4g3jkFD9P9eeZ/vwc
+        cwYcnjx7Vebf/olnp6e7RPsnv9fZs5+4eLV4V84+f1H91O/9HYLzlY797Nlp
+        +Z3y9/nuq9VkMW3OTr9TThftD7LPy+uf+i76UxpdzL6b/d4vVr8Pwfgp8OrF
+        2ROdg5MnP3Hwgy9+7xc7Z6e7xEsvqrOnZ1dfPJ1hnr4Nvn5y7Le9uvrizen+
+        l6+P7714+hP3vnzK8/mU+7h6saTfv6Ntn9p+zE/5nGBUV19cH1y9KA6uv3h6
+        uvNTn//EycnVw7fPLn7i5JjaPHmy/2x679X9yedfPVv/xLOWeHCZfXe/nX3+
+        8OrLn/5Jmrv2isb7Nvvu/eXz3/vVJcnR7vTbFw+mnz97+1Pgs+vd5qe++1M7
+        X/7073OFz3+fxbOfzvZm15N7P7n+qRPw9RPi65/4dLI4aGlurn7qu892vtwj
+        efjurJoRrC++/WT/y73vzH+fvZbm7uHuZPETbfbd3flP7X316Yx44vf6HLzG
+        svQDmou97LvEl5tlmPhB+OL3IVl4vvfsp+lnQ2Mon++VLeH705O9q/b3KXZ2
+        vzi5f0XzuPryHdOPaAV6HJw+mVRPCMb1T+2V64Ex70zuHX/64vcm3O89mf/U
+        58wP7eTzn1zQmPZiY7JjX9y/fP57E998/pPz2dOW+LtcZt/+iU9fvHkCWhe/
+        z3df1D917zuXs+/ef/v8uyIbXy5Jj5042Zju/eT1bFH+9E/93l9s1C1KR/r5
+        4nJSPCR86CfGQLSBzIAuz7/7nZ9+/uarq+fLJzSutw+Ur54qHz1VPiL6gL+v
+        IC/nx3vEr7/X/Bd91bx8s9opH+ZnOz9dffVTbydfvnrw6gcPftFJvff6J/dO
+        f59f9Ozh3bsvX5DCZ0twVywi/Sb2Vo1CxFLfvfv4d/3eydPjN8ff+40TBBjk
+        qcGuUnQxq6brBbktY9jo5nsfO6P78ffJnhfn6dbvqq3vpL9Y7Ln+7b/tXqOX
+        fslvnJyvl2zg09//959VL8niP8mmb7fyS2r7Jqsv8naU8h/H9QUDsLD9DscU
+        XNBEFG36Mz+TbnU/3LqT/q6fpedZ2eR37Ot4TEM1pLCkp2/GbP8IZe5WcCBU
+        qTk/nXfoFTa+4VsG2ch7BiX9iihA/7t79/vfJ+oH/hD9KX8Zd0yDlLvk9r/K
+        m2pdT/Nx9m72e8w++6mL32f7cvcHJ0+un0xeXt1f/sR89+D69/m9P89/n594
+        2/yiz7/6vZqf+uInycP/vWdnZ8/P3l09efCdN3uzy2evv/jOdw9ePnj65vje
+        7z//avv3vj//6nTxbNZ8/qz+8tUv+snVQfOD/LvZvcufnj58/Yu++s5+ff9g
+        9xdmi9Vh+9mn9+7fP/h0//7ezt6OPIHH7nPV7UYlvlZnYJPF8e7BD37qOydv
+        m5cnZw9+78snv/f2ZbNz/Ytekh64/vSLX/T29fzVF1/uXe3u/qKD1frdi99n
+        76vnJFi/z8sfVJ+XF7/3l7vl1cm9L3/v84dvXlff/v2z4s3nr79oP3/4++Rv
+        rn+v2cn05PUXv//vfe9s/fuffef3On7x+vNPH3w6efUTPzn5va4//+L84eL3
+        XhdP5q8mk+v9+/ePv0Om8Aer88l3LvaUBg+m5IHOphRW3TxyM+qBlmABT/LA
+        22hZnW+9vm7upJ999ln68ZrikfNimc8+vkPcVFdX6TK/Sk/ruqq3Pj5+/XL8
+        4vRNevzT2bt0WhbEfNtNMctTjqiuqvotCUBRUvjTVmlZZbPxx2DBGOMZVG8z
+        Qb/Pye/z8Orb+Ve/9++9e2+vfr6od6o3P1j8xNP949XO52/az/dmT09+8Prp
+        9sGDNv/J3//+6mQx2ykWe8V3z65X18/WD76ofp/z+6c//YPv/P717k/vPn/4
+        g9/7YXv2e7+sL37iO/lkb/LTk29fHXxn+9nnL58e5/tfffH7/14/dVp89/f6
+        Rc93yl+0Wzz99DtvXpSLy/uT2ZcvV+9+0bPf5/Mvt3+f73zxNSaIRm105I/d
+        znH+/PTF6avjN1++6nnQ3jesFD776OTZg6cHOwcnoo43d8Ba5SePn58RK5x9
+        SSk9gd77WEGTlz47Pn7+xZPru+/q79z99LvZp9+eLZ+8ezatPn9X3N1f5+X6
+        /neufq8vf2LSfrp7b33+e89/ry9ffPqDl/Xpy73T871Xu3frn/y971XPP93/
+        4qe+83v9Xq9nv8+T3Rdfff7wAfga6Ir1AGVIXfFjGEQGcBMvEwOPSWVB+TXj
+        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
+        D+49P29BQQAA
+    http_version: 
+  recorded_at: Sun, 28 Jun 2015 20:38:07 GMT
+- request:
+    method: get
+    uri: http://maps.googleapis.com/maps/api/geocode/json?address=Reading,%20Berkshire&language=en&sensor=false
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - application/json; charset=UTF-8
+      Date:
+      - Thu, 02 Jul 2015 05:39:29 GMT
+      Expires:
+      - Fri, 03 Jul 2015 05:39:29 GMT
+      Cache-Control:
+      - public, max-age=86400
+      Access-Control-Allow-Origin:
+      - "*"
+      Server:
+      - mafe
+      X-Xss-Protection:
+      - 1; mode=block
+      X-Frame-Options:
+      - SAMEORIGIN
+      Alternate-Protocol:
+      - 80:quic,p=0
+      Accept-Ranges:
+      - none
+      Vary:
+      - Accept-Encoding
+      Transfer-Encoding:
+      - chunked
+    body:
+      encoding: UTF-8
+      string: |
+        {
+           "results" : [
+              {
+                 "address_components" : [
+                    {
+                       "long_name" : "Reading",
+                       "short_name" : "Reading",
+                       "types" : [ "locality", "political" ]
+                    },
+                    {
+                       "long_name" : "Reading",
+                       "short_name" : "Reading",
+                       "types" : [ "postal_town" ]
+                    },
+                    {
+                       "long_name" : "Reading",
+                       "short_name" : "Reading",
+                       "types" : [ "administrative_area_level_2", "political" ]
+                    },
+                    {
+                       "long_name" : "England",
+                       "short_name" : "England",
+                       "types" : [ "administrative_area_level_1", "political" ]
+                    },
+                    {
+                       "long_name" : "United Kingdom",
+                       "short_name" : "GB",
+                       "types" : [ "country", "political" ]
+                    }
+                 ],
+                 "formatted_address" : "Reading, Reading, Reading, UK",
+                 "geometry" : {
+                    "bounds" : {
+                       "northeast" : {
+                          "lat" : 51.4931339,
+                          "lng" : -0.9284944000000001
+                       },
+                       "southwest" : {
+                          "lat" : 51.4097795,
+                          "lng" : -1.0636011
+                       }
+                    },
+                    "location" : {
+                       "lat" : 51.4542645,
+                       "lng" : -0.9781303
+                    },
+                    "location_type" : "APPROXIMATE",
+                    "viewport" : {
+                       "northeast" : {
+                          "lat" : 51.4931339,
+                          "lng" : -0.9284944000000001
+                       },
+                       "southwest" : {
+                          "lat" : 51.4097795,
+                          "lng" : -1.0636011
+                       }
+                    }
+                 },
+                 "place_id" : "ChIJtz092XggdEgRlHn6zn-f4So",
+                 "types" : [ "locality", "political" ]
+              }
+           ],
+           "status" : "OK"
+        }
+    http_version: 
+  recorded_at: Thu, 02 Jul 2015 05:39:30 GMT
+recorded_with: VCR 2.9.3
