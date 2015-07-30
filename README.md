@@ -45,3 +45,10 @@ To run the test suite I recommend using the Docker setup.
 
     docker-compose run app rake db:setup
     docker-compose run app rake
+
+License
+-------
+
+This code is licensed under MIT but the data that it collects is owned by The
+Kennel Club Limited and permission is needed to use screen scraping tools on
+their website.
